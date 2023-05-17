@@ -25,7 +25,6 @@ WORKDIR /root
 #COPY hello.py /root/hello.py
 # Copy the binary from builder
 COPY --from=builder /app/. .
-
 # Run the binary
 CMD ["./main"]
 
