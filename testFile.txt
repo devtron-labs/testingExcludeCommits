@@ -1,5 +1,0 @@
-This is a testing file for include/exclude Git Commits.
-
-Need to check for git commits excluded in Build & Deploy.
-
-Hello
